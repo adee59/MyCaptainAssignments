@@ -75,4 +75,3 @@ else:
             print(p,'  X  ',q,'  =  ',r)
         else:
             print(p,'  X  ',q,' =  ',r)
-    print()
